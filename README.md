@@ -2,6 +2,13 @@
 
 Currency Converter is a mobile app that allows users to convert between different currencies. It provides up-to-date exchange rates from an API source and enables users to perform currency conversions seamlessly.
 
+# Used Api for Currency
+- https://cbu.uz/uz/arkhiv-kursov-valyut/json/
+
+# Used Link for Flags
+- https://flagcdn.com/uz.svg
+
+
 ## Screenshots
 <p align="center">
   <img width="200" src="https://github.com/AzizbekLive/CurrencyConverter/assets/120745929/c0517cdb-57b1-4b78-916a-39c446a867e8" alt="Currency Converter App">
