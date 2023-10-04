@@ -1,0 +1,1 @@
+package uz.gita.currencyconverter.domain.usecaseimport kotlinx.coroutines.flow.Flowimport uz.gita.currencyconverter.domain.models.CurrencyParaminterface CurrencyUseCase {    operator fun invoke(): Flow<List<CurrencyParam>>}

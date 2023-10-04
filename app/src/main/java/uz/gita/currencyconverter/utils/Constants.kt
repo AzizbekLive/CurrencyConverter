@@ -1,0 +1,1 @@
+package uz.gita.currencyconverter.utilsobject Constants {    const val BASE_URL = "https://cbu.uz/uz/arkhiv-kursov-valyut/"    const val END_POINT = "json/"    const val FLAGS = "https://flagcdn.com/"}

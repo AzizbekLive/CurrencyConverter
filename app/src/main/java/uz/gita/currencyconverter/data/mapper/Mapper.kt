@@ -1,0 +1,1 @@
+package uz.gita.currencyconverter.data.mapperimport uz.gita.currencyconverter.data.source.remote.response.CurrencyResponseimport uz.gita.currencyconverter.domain.models.CurrencyParamfun CurrencyResponse.toParam(): CurrencyParam =    CurrencyParam(Ccy, CcyNm_EN, CcyNm_RU, CcyNm_UZ, CcyNm_UZC, Code, Date, Diff, Nominal, Rate, id)

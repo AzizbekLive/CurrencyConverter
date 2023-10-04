@@ -1,0 +1,1 @@
+package uz.gita.currencyconverter.data.source.remote.apiimport retrofit2.Responseimport retrofit2.http.GETimport uz.gita.currencyconverter.data.source.remote.response.CurrencyResponseimport uz.gita.currencyconverter.utils.Constants.END_POINTinterface CurrencyApi {    @GET(END_POINT)    suspend fun getAllCurrency(): Response<List<CurrencyResponse>>}

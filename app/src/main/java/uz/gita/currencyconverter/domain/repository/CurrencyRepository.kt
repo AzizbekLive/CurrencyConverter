@@ -1,0 +1,1 @@
+package uz.gita.currencyconverter.domain.repositoryimport kotlinx.coroutines.flow.Flowimport uz.gita.currencyconverter.domain.models.CurrencyParaminterface CurrencyRepository {    fun getAllCurrency(): Flow<List<CurrencyParam>>}
