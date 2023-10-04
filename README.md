@@ -4,9 +4,9 @@ Currency Converter is a mobile app that allows users to convert between differen
 
 ## Screenshots
 <p align="center">
-  <img width="200" src="https://github.com/AzizbekLive/CurrencyConverter/assets/120745929/c64f1693-38de-40f8-b3f2-5c441ce05fd5" alt="Currency Converter App">
-  <img width="200" src="https://github.com/AzizbekLive/CurrencyConverter/assets/120745929/c0517cdb-57b1-4b78-916a-39c446a867e8" alt="Image 2">
-  <img width="200" src="https://github.com/AzizbekLive/CurrencyConverter/assets/120745929/2cf09be3-19b9-42a3-8041-9ac292583dff" alt="Image 3">
+  <img width="200" src="https://github.com/AzizbekLive/CurrencyConverter/assets/120745929/c0517cdb-57b1-4b78-916a-39c446a867e8" alt="Currency Converter App">
+  <img width="200" src="https://github.com/AzizbekLive/CurrencyConverter/assets/120745929/2cf09be3-19b9-42a3-8041-9ac292583dff" alt="Image 2">
+  <img width="200" src="https://github.com/AzizbekLive/CurrencyConverter/assets/120745929/c64f1693-38de-40f8-b3f2-5c441ce05fd5" alt="Image 3">
 </p>
 
 
